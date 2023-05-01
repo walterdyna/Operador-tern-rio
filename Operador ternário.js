@@ -1,8 +1,8 @@
 /*
 ------ ====== Operador Ternário OU Operador de Condicional ====== ------
 
-?  --->  ? - SE
-:  --->  : - SE NÃO
+?  --->  ? - SE ---> Verdade
+:  --->  : - SE NÃO --> falso
 */
 
 console.log("----------------------------------------Se----------------------------------------")
