@@ -3,8 +3,8 @@
 
 ------ ====== Operador Ternário OU Operador de Condicional ====== ------
 
-?  --->  SE
-:  --->  SE NÃO
+?  --->  SE         ---> Verdadeiro
+:  --->  SE NÃO     ---> Falso
 
 ----------------------------------------Se----------------------------------------
 levar guarda-chuva
